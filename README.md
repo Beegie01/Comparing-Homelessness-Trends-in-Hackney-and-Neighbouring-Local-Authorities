@@ -1,5 +1,9 @@
 # Quarterly Homelessness Trends: Hackney vs Neighbouring Local Authorities
 This data analysis project involved creating an automated ETL pipeline to extract source data from multiple files in cloud storage, transform it, and load the refined data to support a real-time Power BI dashboard with insightful report.
+
+### AIM
+To provide valuable insights into quarterly homelessness trends and inform effective prevention strategies across Hackney and nine neighbouring local authorities.
+
 ### DATA
 Dataset is publicly available.
 
@@ -57,9 +61,6 @@ POWER BI & POWER QUERY:
 7. Publish to Power BI Service
 
 
-### REPORT SUMMARY
-Full version of this report is available [here](https://github.com/Beegie01/Comparing-Homelessness-Trends-in-Hackney-and-Neighbouring-Local-Authorities/blob/main/Hackney%20Quarterly%20Report%20-%20MAR2025.pdf).<br>
-
 ### HOUSEHOLDS AND INITIAL ASSESSMENT
 View a snapshot of the dashboard [here](https://github.com/Beegie01/Comparing-Homelessness-Trends-in-Hackney-and-Neighbouring-Local-Authorities/blob/main/initial_assessment_report.pdf)
 
@@ -87,3 +88,6 @@ View a snapshot of the dashboard [here](https://github.com/Beegie01/Comparing-Ho
 3. Strengthen the council’s capacity to secure accommodation and expand its use of LA/HA stock to reduce reliance on more expensive alternatives.
 4. Direct greater investment towards reducing the length of time families spend in temporary accommodation, in order to minimize the negative impact on growing children.
 5. Investigate the root causes of unexpectedly high use of temporary accommodation by  single adult males.
+
+### REPORT SUMMARY
+Full version of this report is available [here](https://github.com/Beegie01/Comparing-Homelessness-Trends-in-Hackney-and-Neighbouring-Local-Authorities/blob/main/Hackney%20Quarterly%20Report%20-%20MAR2025.pdf).<br>
