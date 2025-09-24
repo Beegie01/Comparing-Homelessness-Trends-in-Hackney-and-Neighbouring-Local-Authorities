@@ -3,3 +3,5 @@ This data analysis project involved creating an automated ETL pipeline to extrac
 Dataset is publicly available.
 
 ![image](flow_diagram_for_dashboard_project.png)
+
+Full version of this report is available [here]().<br>
