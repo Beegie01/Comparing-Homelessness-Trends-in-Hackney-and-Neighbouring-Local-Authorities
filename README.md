@@ -13,7 +13,7 @@ View a snapshot of the dashboard [here](https://github.com/Beegie01/Comparing-Ho
 View a snapshot of the dashboard [here](https://github.com/Beegie01/Comparing-Homelessness-Trends-in-Hackney-and-Neighbouring-Local-Authorities/blob/main/prevention_duty_report.pdf)
 
 ### PREVENTION DUTY ENDED
-View a snapshot of the dashboard [here](
+View a snapshot of the dashboard [here](https://github.com/Beegie01/Comparing-Homelessness-Trends-in-Hackney-and-Neighbouring-Local-Authorities/blob/main/prevention_duty_ending_report.pdf)
 
 ### RECOMMENDATIONS<br>
 1. Educate households on importance of encouraging friends or family members to apply early for their own housing options while relationships are still positive.
