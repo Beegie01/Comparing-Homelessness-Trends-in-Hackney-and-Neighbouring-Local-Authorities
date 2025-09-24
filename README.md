@@ -47,6 +47,15 @@ SQL:
 9. Pivot unique values of the local_authority into separate columns hackney_la and neighbouring_la
 10. Store result as view
 
+POWER BI & POWER QUERY:
+1. Get data from from cloud-based CSV file using Query Editor
+2. Use appropriate row as header
+3. Remove redundant prefix/suffix from metrics column
+4. Close and apply query results on Query Editor to Power BI Report
+5. Calculate measures using DAX
+6. Build dynamic dashboard visuals
+7. Publish to Power BI Service
+
 
 ### REPORT SUMMARY
 Full version of this report is available [here](https://github.com/Beegie01/Comparing-Homelessness-Trends-in-Hackney-and-Neighbouring-Local-Authorities/blob/main/Hackney%20Quarterly%20Report%20-%20MAR2025.pdf).<br>
