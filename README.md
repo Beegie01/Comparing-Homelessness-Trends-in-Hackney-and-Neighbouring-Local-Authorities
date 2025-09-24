@@ -15,6 +15,18 @@ View a snapshot of the dashboard [here](https://github.com/Beegie01/Comparing-Ho
 ### PREVENTION DUTY ENDED
 View a snapshot of the dashboard [here](https://github.com/Beegie01/Comparing-Homelessness-Trends-in-Hackney-and-Neighbouring-Local-Authorities/blob/main/prevention_duty_ending_report.pdf)
 
+### OWED RELIEF DUTY
+View a snapshot of the dashboard [here](https://github.com/Beegie01/Comparing-Homelessness-Trends-in-Hackney-and-Neighbouring-Local-Authorities/blob/main/relief_duty_report.pdf)
+
+### RELIEF DUTY ENDED
+View a snapshot of the dashboard [here](https://github.com/Beegie01/Comparing-Homelessness-Trends-in-Hackney-and-Neighbouring-Local-Authorities/blob/main/relief_duty_ending_report.pdf)
+
+### HOUSEHOLDS IN TEMPORARY ACCOMMODATION
+View a snapshot of the dashboard [here](https://github.com/Beegie01/Comparing-Homelessness-Trends-in-Hackney-and-Neighbouring-Local-Authorities/blob/main/temp_accommodation_report.pdf)
+
+### TEMPORARY ACCOMMODATION HOUSEHOLD COMPOSITION
+View a snapshot of the dashboard [here](https://github.com/Beegie01/Comparing-Homelessness-Trends-in-Hackney-and-Neighbouring-Local-Authorities/blob/main/temp_accommodation_households_report.pdf)
+
 ### RECOMMENDATIONS<br>
 1. Educate households on importance of encouraging friends or family members to apply early for their own housing options while relationships are still positive.
 2. Encourage household members to report early signs of domestic abuse to help identify potential risks of homelessness and enable timely preventive measures.
