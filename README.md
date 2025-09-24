@@ -36,16 +36,16 @@ Python:
 19. Load data from DataFrame to CSV file stored in a cloud-based folder
 
 SQL:
-1.Get data from staging table of interest
-2.Using the is_neighbouring_la column, select only records of the following local authorities: Southwark, Islington, Haringey, Lambeth, Tower Hamlets, Camden, Waltham Forest, Hammersmith & Fulham, and Newham
-3.Calculate aggregated metrics (average) for selected records
-4.Engineer columns system_id and local_authority for calculated aggregates to enable merging with more granular council records
-5.Append grouped records to Hackney’s
-6.Calculate percentages for metrics
-7.Engineer year_qtr to enhance axis sorting in dashboard visuals
-8.Unpivot metric columns into two columns named “metrics” (categorical) and “households” (values)
-9.Pivot unique values of the local_authority into separate columns hackney_la and neighbouring_la
-10.Store result as view
+1. Get data from staging table of interest
+2. Using the is_neighbouring_la column, select only records of the following local authorities: Southwark, Islington, Haringey, Lambeth, Tower Hamlets, Camden, Waltham Forest, Hammersmith & Fulham, and Newham
+3. Calculate aggregated metrics (average) for selected records
+4. Engineer columns system_id and local_authority for calculated aggregates to enable merging with more granular council records
+5. Append grouped records to Hackney’s
+6. Calculate percentages for metrics
+7. Engineer year_qtr to enhance axis sorting in dashboard visuals
+8. Unpivot metric columns into two columns named “metrics” (categorical) and “households” (values)
+9. Pivot unique values of the local_authority into separate columns hackney_la and neighbouring_la
+10. Store result as view
 
 
 ### REPORT SUMMARY
