@@ -1,5 +1,5 @@
 # Quarterly Homelessness Trends: Hackney vs Neighbouring Local Authorities
-This data analysis project involved creating an automated ETL pipeline to extract source data from multiple files in cloud storage, transform it, and load the refined data to support a real-time Power BI dashboard with insightful report.
+This data analysis project involved building an automated ETL pipeline that extracted data from multiple cloud-based source files, transformed it, and loaded the refined output to power a real-time Power BI dashboard for actionable decision-making..
 
 ### AIM
 To provide valuable insights into quarterly homelessness trends and inform effective prevention strategies across Hackney and nine neighbouring local authorities.
