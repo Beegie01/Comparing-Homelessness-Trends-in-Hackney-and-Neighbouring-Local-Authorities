@@ -15,25 +15,25 @@ Dataset is publicly available.
 
 ### ETL ALGORITHMIC STEPS
 Python:
-1.Extract source data from Excel file into a source DataFrame
-2.Drop completely empty rows and almost empty columns
-3.Map columns to appropriate column names
-4.Remove duplicate records
-5.Keep only relevant columns
-6.Drop blank system_id rows
-7.Drop almost empty rows
-8.Engineer quarter_indicator, is_neighbouring_la columns
-9.Replace system placeholder for missing values “..” with more intuitive ””
-10.Recast columns to appropriate data types
-11.Repeat previous steps for remaining files and append final output to the same source DataFrame
-12.Engineer a delta column to identify uniqueness of each row based on its content for source DataFrame
-13.Connect to and extract existing data from a corresponding database table into a destination DataFrame
-14.Enforce data type consistency between source and destination DataFrames
-15.Engineer a delta column to identify uniqueness of each row based on its content for destination DataFrame
-16.Compare delta columns of both DataFrames only keeping rows in the source DataFrame where data is fresh
-17.Load fresh data from source DataFrame into target data warehouse table in the database
-18.Refresh and load final output of transformations in the data warehouse into a DataFrame
-19.Load data from DataFrame to CSV file stored in a cloud-based folder
+1. Extract source data from Excel file into a source DataFrame
+2. Drop completely empty rows and almost empty columns
+3. Map columns to appropriate column names
+4. Remove duplicate records
+5. Keep only relevant columns
+6. Drop blank system_id rows
+7. Drop almost empty rows
+8. Engineer quarter_indicator, is_neighbouring_la columns
+9. Replace system placeholder for missing values “..” with more intuitive ””
+10. Recast columns to appropriate data types
+11. Repeat previous steps for remaining files and append final output to the same source DataFrame
+12. Engineer a delta column to identify uniqueness of each row based on its content for source DataFrame
+13. Connect to and extract existing data from a corresponding database table into a destination DataFrame
+14. Enforce data type consistency between source and destination DataFrames
+15. Engineer a delta column to identify uniqueness of each row based on its content for destination DataFrame
+16. Compare delta columns of both DataFrames only keeping rows in the source DataFrame where data is fresh
+17. Load fresh data from source DataFrame into target data warehouse table in the database
+18. Refresh and load final output of transformations in the data warehouse into a DataFrame
+19. Load data from DataFrame to CSV file stored in a cloud-based folder
 
 SQL:
 1.Get data from staging table of interest
